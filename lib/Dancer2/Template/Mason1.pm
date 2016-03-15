@@ -1,7 +1,7 @@
 package Dancer2::Template::Mason1;
 
 use Moo;
-use 5.010;
+use 5.016;
 use Dancer2::Core::Types;
 use HTML::Mason::Interp;
 
